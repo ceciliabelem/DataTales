@@ -1,0 +1,21 @@
+- titanic
+    colunas com dados faltantes e seu respectivo percentual de dados faltantes - imputação de dados
+
+    existem valores outliers nas colunas numericas?
+
+    plotar gráfico chamado boxplot (explicar o gráfico) - é um gráfico que mostra diversas medidas
+
+    EDA - como fazer
+
+    gravar como foi feito, gráfico de linhas e tal
+
+    correlação de pearson - plotar um gráfico de dispersão
+
+ 
+
+ 
+
+- base de dados "iris" - base de dados de flores iris setosa
+
+- correlação de pearson - plotar um gráfico de dispersão
+    tabela de alunos x horas de estudo x nota
